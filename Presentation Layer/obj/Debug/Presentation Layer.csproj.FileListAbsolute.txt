@@ -13,3 +13,8 @@ C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation 
 C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
 C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
 C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
